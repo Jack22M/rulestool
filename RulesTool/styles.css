@@ -18,6 +18,12 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+@media screen and (max-width: 768px) {
+	.title {
+		width: 100%;
+	}
+}
+
 .item1 {}
 
 /* End Title Flex
@@ -32,6 +38,12 @@ Content Selector*/
 	margin: auto;
 	border-radius: 15px 15px 15px 15px;
 	flex-direction: row;
+}
+
+@media screen and (max-width: 768px) {
+	.content-selector {
+		width: 100%;
+	}
 }
 
 .main1 {
@@ -73,9 +85,15 @@ Content Selector*/
 	width: 80%;
 }
 
+@media screen and (max-width: 768px) {
+	.acb {
+		width: 100%;
+	}
+}
+
 .img1 {
 	text-align: center;
-	width: 50%;
+	width: 35%;
 	height: 20%;
 }
 
