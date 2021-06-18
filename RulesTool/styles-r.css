@@ -1,0 +1,78 @@
+
+body {
+	background-color: cadetblue;
+}
+
+/* Title Flex*/
+
+.title {
+	background-color: lightBlue;
+	width: 80%;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	margin: auto;
+	justify-content: center;
+	border-radius: 15px 15px 15px 15px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.item1 {
+	
+}
+
+.wbreak {
+	width: 70%;
+}
+
+.h1heading-left {
+	padding: 2%;
+	width: 40%;
+	text-align: right;
+}
+
+.headings2 {
+	width: 80%;
+	height: 50px;
+	display: flex;
+	border-bottom: solid;
+	align-items: center;
+	margin: auto;
+	justify-content: right;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1heading {
+	padding: 2%;
+	width: 15%;
+}
+
+.acb3 {
+	background-color: lightblue;
+	border-radius: 15px 15px 15px 15px;
+	border: none;
+	font-size: 24px;
+	text-align: center;
+	width: 80%;
+	height: 100%;
+}
+
+
+
+.acb2 {
+	background-color: lightblue;
+	border-radius: 15px 15px 15px 15px;
+	border: none;
+	font-size: 24px;
+	text-align: center;
+	width: 80%;
+	height: 100%;
+}
+
+.height2 {
+	height: 60px;
+	text-align: center;
+}
+
+/* End Title Flex
+Content Selector*/
