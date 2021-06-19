@@ -172,4 +172,15 @@ body {
 	.acb2 {
 		width: 100%;
 	}
+	
+	.notes {
+		flex-direction: colum;
+	}
+	.sntitle {
+		width: 99%;
+	}
+	
+	.quizs {
+		width: 99%;		
+	}
 }
