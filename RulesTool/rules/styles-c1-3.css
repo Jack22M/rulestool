@@ -174,7 +174,7 @@ body {
 	}
 	
 	.notes {
-		flex-direction: colum;
+		flex-direction: column;
 	}
 	.sntitle {
 		width: 99%;
