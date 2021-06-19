@@ -153,3 +153,23 @@ body {
 	height: 60px;
 	text-align: center;
 }
+
+
+@media screen and (max-width: 1300px) {
+	.title {
+		width: 100%;
+	}
+	
+	.notes {
+		width: 100%;
+	}
+	.pv {
+		width: 100%;
+	}
+	.acb3 {
+		width: 100%;
+	}
+	.acb2 {
+		width: 100%;
+	}
+}
